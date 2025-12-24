@@ -1,4 +1,4 @@
-毕设作品：                            
+毕设作品：SpringBoot + Vue3 健身身材管理系统                
 前后端分离：后端Fitness-springboot，前端Fitness-vscode，数据库Fitness-mysql。                             
 登陆账号：hehuicong                               
 登陆密码：123456                          
